@@ -1,0 +1,14 @@
+
+body {
+                width: 600px;
+                border: 1px solid #c9c9c9;
+                margin: 50px auto;
+                text-align: center;
+                padding: 20px;
+            }
+            
+            h1 {
+                font-family: Georgia,Times,serif;
+                font-size: 1.8em;
+            }
+
